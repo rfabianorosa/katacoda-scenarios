@@ -4,14 +4,10 @@
   "difficulty": "Iniciante",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Instalar o vim",
-      "text": "step1.md"
-    }],
-    "steps": [{
-      "title": "Modificar o editor padrão",
-      "text": "step2.md"
-    }],
+    "steps": [
+      {"title": "Instalar o vim","text": "step1.md"},
+      {"title": "Modificando o editor vi para o vim","text": "step2.md"}
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
