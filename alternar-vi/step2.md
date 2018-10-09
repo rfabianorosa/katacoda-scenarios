@@ -14,7 +14,7 @@ Adicionando o link simbólico do novo editor (vim):
 
     obs: o Comando ln criará um link simbólico do comando vim para o vi é como se fosse um atalho, para visualizar a ligação pode-se utilizar o comando ls -l
 
-##Solução número 02
+## Solução número 02
 
 Geralmente após a instalação do pacote vim o mesmo já fica disponível para utilização no lugar do vi, para confirmar basta verificar o link no /etc/alternatives, onde deve respeitar a seguinte ordem:
 
