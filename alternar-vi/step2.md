@@ -4,13 +4,12 @@ Existe diversas formas de realizar esta tarefa, a que seguirei simplesmente ser�
 
 ## Solução número 01
 
-Remover o editor vi: **command**
+Remover o editor vi: 
 
 `sudo rm -f /usr/bin/vi`{{execute}}
 
-Adicionando o link simbólico do novo editor (vim): **command**
+Adicionando o link simbólico do novo editor (vim): 
 
-`sudo ln -s /usr/bin/vim /usr/vin/vi`{{execute}}
+`sudo ln -s /usr/bin/vim /usr/bin/vi`{{execute}}
 
- 
-## Solução número 02
+    obs: o Comando ln criará um link simbólico do comando vim para o vi é como se fosse um atalho, para visualizar a ligação pode-se utilizar o comando ls -l
