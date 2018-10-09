@@ -4,7 +4,7 @@ Instalando o editor vim no Ubuntu, tomando como refência a partir da versão 14
 
 Instalando o editor vim dentro do ubuntu com o comando apt-get, por favor execute: **command**
 
-`apt-get -y install vim`{{execute}}
+`sudo apt-get -y install vim`{{execute}}
 
 | Tag | Explicacao |
 |----|--------------|
