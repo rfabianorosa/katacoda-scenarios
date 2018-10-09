@@ -25,8 +25,14 @@ Ou seja o arquivo binário **/usr/bin/vi** é um link simbólico para o arquivo 
 
 Para recriar o link basta seguir os seguintes passos:
 
-`sudo rm -f /etc/alternatives/vi`
-`sudo ln -s /usr/bin/vim.basic /etc/alternatives/vi`
+
+Remover o arquivo:
+
+`sudo rm -f /etc/alternatives/vi`{{execute}}
+
+Recriar o link simbólico
+
+`sudo ln -s /usr/bin/vim.basic /etc/alternatives/vi`{{execute}}
 
 Pronto está feito.
 
