@@ -1,7 +1,7 @@
-This is your first step.
+Este é o primeiro exemplo
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Este exemplo mostra como rodar um simples Hello World na tela, por favor execute: **command**
 
 `echo 'Hello World'`{{execute}}
