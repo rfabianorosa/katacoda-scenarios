@@ -8,6 +8,10 @@
       "title": "Instalar o vim",
       "text": "step1.md"
     }],
+    "steps": [{
+      "title": "Modificar o editor padrão",
+      "text": "step2.md"
+    }],
     "intro": {
       "text": "intro.md",
       "credits": ""
