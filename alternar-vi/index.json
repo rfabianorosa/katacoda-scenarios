@@ -1,11 +1,11 @@
 {
-  "title": "Alternar o editor vi para o vim",
-  "description": "Primeiro Cenário",
+  "title": "Alternar o editor vi para o vim no ubuntu",
+  "description": "Alterando o editor vi (original) pelo vim (modo mais humano)",
   "difficulty": "Iniciante",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Instalar o vim",
+      "title": "Instalar o vim",
       "text": "step1.md"
     }],
     "intro": {
